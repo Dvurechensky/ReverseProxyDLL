@@ -1,0 +1,19 @@
+{
+	"FUN_065b5c40": {
+		"kind": "internal",
+		"function_name": "FUN_065b5c40",
+		"return_type": "void",
+		"original_return_type": "void",
+		"calling_convention": "__cdecl",
+		"params": [],
+		"signature_confidence": "ghidra",
+		"return_type_confidence": "high",
+		"return_inference_reason": "taken from decompiler signature"
+	},
+	"stricmp": {
+		"kind": "forward_export",
+		"function_name": "stricmp",
+		"forward_target": "msvcrt._stricmp",
+		"signature_confidence": "manual"
+	}
+}
