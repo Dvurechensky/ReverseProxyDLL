@@ -1,4 +1,21 @@
-# ReverseProxyDLL
+<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
+  <strong>🌐 Language: </strong>
+  
+  <a href="./README.ru.md" style="color: #F5F752; margin: 0 10px;">
+    🇷🇺 Russian
+  </a>
+  | 
+  <span style="color: #0891b2; margin: 0 10px;">
+    ✅ 🇺🇸 English (current)
+  </span>
+</div>
+
+<div align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+  </picture>
+  <h2>💻 ReverseProxyDLL</span></h2>
+</div>
 
 [![Status](https://shields.dvurechensky.pro/badge/status-active-brightgreen)](https://github.com/Dvurechensky/ReverseProxyDLL)
 [![Platform](https://shields.dvurechensky.pro/badge/platform-windows%20x86-blue)](https://github.com/Dvurechensky/ReverseProxyDLL)
@@ -14,20 +31,19 @@
 
 ---
 
-- [ReverseProxyDLL](#reverseproxydll)
-  - [Why I built this](#why-i-built-this)
-  - [What this project does](#what-this-project-does)
-  - [What makes it different from ordinary DLL proxy generators](#what-makes-it-different-from-ordinary-dll-proxy-generators)
-  - [Current workflow](#current-workflow)
-  - [Toolchain / target scope](#toolchain--target-scope)
-  - [Core tools](#core-tools)
-    - [`generate_overrides_from_ghidra_dump.py`](#generate_overrides_from_ghidra_dumppy)
-    - [`reverse_dll_project_generator.py`](#reverse_dll_project_generatorpy)
-  - [Example workflow](#example-workflow)
-  - [What this project is **not**](#what-this-project-is-not)
-  - [Good fit for](#good-fit-for)
-  - [Status](#status)
-  - [Roadmap](#roadmap)
+- [Why I built this](#why-i-built-this)
+- [What this project does](#what-this-project-does)
+- [What makes it different from ordinary DLL proxy generators](#what-makes-it-different-from-ordinary-dll-proxy-generators)
+- [Current workflow](#current-workflow)
+- [Toolchain / target scope](#toolchain--target-scope)
+- [Core tools](#core-tools)
+  - [`generate_overrides_from_ghidra_dump.py`](#generate_overrides_from_ghidra_dumppy)
+  - [`reverse_dll_project_generator.py`](#reverse_dll_project_generatorpy)
+- [Example workflow](#example-workflow)
+- [What this project is **not**](#what-this-project-is-not)
+- [Good fit for](#good-fit-for)
+- [Status](#status)
+- [Roadmap](#roadmap)
 
 ---
 

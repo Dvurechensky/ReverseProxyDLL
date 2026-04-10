@@ -1,4 +1,21 @@
-# ReverseProxyDLL
+<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
+  <strong>🌐 Язык: </strong>
+  
+  <span style="color: #F5F752; margin: 0 10px;">
+    ✅ 🇷🇺 Русский (текущий)
+  </span>
+  | 
+  <a href="./README.md" style="color: #0891b2; margin: 0 10px;">
+    🇺🇸 English
+  </a>
+</div>
+
+<div align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+  </picture>
+  <h2>💻 ReverseProxyDLL</span></h2>
+</div>
 
 [![Status](https://shields.dvurechensky.pro/badge/status-active-brightgreen)](https://github.com/Dvurechensky/ReverseProxyDLL)
 [![Platform](https://shields.dvurechensky.pro/badge/platform-windows%20x86-blue)](https://github.com/Dvurechensky/ReverseProxyDLL)
@@ -10,24 +27,22 @@
 ---
 
 - [С чего начать](docs/STARTUP.ru.md)
-- [English version](README.md)
 
 ---
 
-- [ReverseProxyDLL](#reverseproxydll)
-  - [Зачем я это сделал](#зачем-я-это-сделал)
-  - [Что делает этот проект](#что-делает-этот-проект)
-  - [Чем это отличается от обычных DLL proxy generators](#чем-это-отличается-от-обычных-dll-proxy-generators)
-  - [Текущий рабочий процесс](#текущий-рабочий-процесс)
-  - [Toolchain / область применения](#toolchain--область-применения)
-  - [Основные инструменты](#основные-инструменты)
-    - [`generate_overrides_from_ghidra_dump.py`](#generate_overrides_from_ghidra_dumppy)
-    - [`reverse_dll_project_generator.py`](#reverse_dll_project_generatorpy)
-  - [Пример рабочего процесса](#пример-рабочего-процесса)
-  - [Чем этот проект **не является**](#чем-этот-проект-не-является)
-  - [Подходит для](#подходит-для)
-  - [Статус](#статус)
-  - [Планы](#планы)
+- [Зачем я это сделал](#зачем-я-это-сделал)
+- [Что делает этот проект](#что-делает-этот-проект)
+- [Чем это отличается от обычных DLL proxy generators](#чем-это-отличается-от-обычных-dll-proxy-generators)
+- [Текущий рабочий процесс](#текущий-рабочий-процесс)
+- [Toolchain / область применения](#toolchain--область-применения)
+- [Основные инструменты](#основные-инструменты)
+  - [`generate_overrides_from_ghidra_dump.py`](#generate_overrides_from_ghidra_dumppy)
+  - [`reverse_dll_project_generator.py`](#reverse_dll_project_generatorpy)
+- [Пример рабочего процесса](#пример-рабочего-процесса)
+- [Чем этот проект **не является**](#чем-этот-проект-не-является)
+- [Подходит для](#подходит-для)
+- [Статус](#статус)
+- [Планы](#планы)
 
 ---
 
