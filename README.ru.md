@@ -16,11 +16,12 @@
   </picture>
   <h2>💻 ReverseProxyDLL</span></h2>
 </div>
-
-[![Status](https://shields.dvurechensky.pro/badge/status-active-brightgreen)](https://github.com/Dvurechensky/ReverseProxyDLL)
-[![Platform](https://shields.dvurechensky.pro/badge/platform-windows%20x86-blue)](https://github.com/Dvurechensky/ReverseProxyDLL)
-[![Focus](https://shields.dvurechensky.pro/badge/focus-legacy%20reverse%20proxy%20dll-purple)](https://github.com/Dvurechensky/ReverseProxyDLL)
-[![Toolchain](https://shields.dvurechensky.pro/badge/toolchain-vc%2B%2B%202003%20first-orange)](https://github.com/Dvurechensky/ReverseProxyDLL)
+<p align="center">
+  <img src="https://shields.dvurechensky.pro/badge/status-active-brightgreen" />
+  <img src="https://shields.dvurechensky.pro/badge/platform-windows%20x86-blue" />
+  <img src="https://shields.dvurechensky.pro/badge/focus-legacy%20reverse%20proxy%20dll-purple" />
+  <img src="https://shields.dvurechensky.pro/badge/toolchain-vc%2B%2B%202003%20first-orange" />
+</p>
 
 > Генератор reverse-aware proxy DLL каркасов для legacy x86 Windows-бинарников на основе дампа экспортов и вывода декомпилятора.
 
