@@ -1,6 +1,12 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+# ========================================
+# Author: Nikolay Dvurechensky
+# Site: https://dvurechensky.pro/
+# Gmail: dvurechenskysoft@gmail.com
+# Last Updated: 11 апреля 2026 13:37:10
+# Version: 1.0.4
+# ========================================
 import re
 import sys
 import json
