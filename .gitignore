@@ -1,5 +1,5 @@
 pre_commit.ps1
-pre_commit.log
+pre_commit_python.log
 
 # The following command works for downloading when using Git for Windows:
 # curl -LOf http://gist.githubusercontent.com/kmorcinek/2710267/raw/.gitignore
