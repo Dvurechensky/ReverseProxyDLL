@@ -4,8 +4,8 @@
 # Author: Nikolay Dvurechensky
 # Site: https://dvurechensky.pro/
 # Gmail: dvurechenskysoft@gmail.com
-# Last Updated: 27 мая 2026 13:03:04
-# Version: 1.0.52
+# Last Updated: 28 мая 2026 17:29:17
+# Version: 1.0.53
 # ========================================
 import re
 import sys
