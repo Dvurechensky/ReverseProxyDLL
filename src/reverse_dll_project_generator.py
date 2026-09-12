@@ -4,8 +4,8 @@
 # Author: Nikolay Dvurechensky
 # Site: https://dvurechensky.pro/
 # Gmail: dvurechenskysoft@gmail.com
-# Last Updated: 11 сентября 2026 06:51:06
-# Version: 1.0.160
+# Last Updated: 12 сентября 2026 06:51:08
+# Version: 1.0.161
 # ========================================
 """
 reverse_dll_project_generator.py
